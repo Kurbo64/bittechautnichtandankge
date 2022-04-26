@@ -6,13 +6,11 @@
     "active" : true,
     "members" : [
       {
-        "name" : "Molecule Man",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
+        "name" : "Molucular Max",
+        "age" : 15,
+        "secretIdentity" : "Maximillian Augsten",
         "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+          "Nom nom"
         ]
       },
       {
