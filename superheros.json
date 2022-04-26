@@ -1,18 +1,18 @@
 {
-    "squadName" : "Donut Bois",
-    "homeTown" : "Vienna",
-    "formed" : 2022,
+    "squadName" : "Super Hero Squad",
+    "homeTown" : "Metro City",
+    "formed" : 2016,
     "secretBase" : "Super tower",
     "active" : true,
     "members" : [
       {
-        "name" : "Simon-Nicolas Lojnik",
-        "age" : 16,
-        "secretIdentity" : "Ben Derover",
+        "name" : "Molecule Man",
+        "age" : 29,
+        "secretIdentity" : "Dan Jukes",
         "powers" : [
-          "Dorito Canon",
-          "CHEESE SLAP",
-          "Luna Simp"
+          "Radiation resistance",
+          "Turning tiny",
+          "Radiation blast"
         ]
       },
       {
@@ -37,5 +37,13 @@
           "Interdimensional travel"
         ]
       }
+      {"name" : "Serpend",
+        "age":20,
+        "secretIdentity" : "Unknown",
+        "powers" :[
+            "water control",
+            "Healing"
+        ]
+    }
     ]
   }
